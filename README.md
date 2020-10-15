@@ -1,2 +1,10 @@
-# or-labosi
-Laboratorijske vježbe iz OR-a
+# OR labosi
+
+Repozitorij labosa OR-a
+
+## Uvod
+Autor: Branimir Pervan
+
+## Instalacija
+
+## Pitanja
